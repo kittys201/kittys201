@@ -56,7 +56,7 @@ I'm a passionate web developer with a background in web and computer programming
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jennifer-gonzalez-pina)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jennifer-gonzalez-pina)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kittys201)
 
 ## 📊 GitHub Stats
 
