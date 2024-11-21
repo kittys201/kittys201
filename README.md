@@ -50,6 +50,7 @@ I'm a passionate web developer with a background in web and computer programming
 
 ## 🌎 Languages
 - Spanish (Native)
+- Portuguese (Advanced)
 - English (Intermediate)
 
 ## 📫 Let's Connect!
