@@ -1,75 +1,70 @@
- # Jennifer Cristina Gonzalez Pina
+ # Jennifer Cristina Gonzalez Pina 👩‍💻
 
-## About Me
+Hello, GitHub! 👋
 
-Hello! I'm Jennifer Cristina Gonzalez Pina, a passionate web developer with a background in web and computer programming. I enjoy learning and applying new technologies and techniques to create visually engaging and high-performing web products.
+I'm a passionate web developer with a background in web and computer programming. Currently pursuing a Certificate of Web and Computer Programming at Brigham Young University - Idaho while working as a freelance web developer.
 
-## Education
+## 🎓 Education
+- **Certificate of Web and Computer Programming** - Brigham Young University - Idaho *(September 2023 - April 2024)*
+- **Pathway Connect Certificate** - BYU-Pathway Worldwide *(September 2021 - July 2022)*
 
-### Certificate of Web and Computer Programming
-**Brigham Young University - Idaho**
-*September 2023 - April 2024*
-- Learned and applied new technology and techniques
-- Understood principles of programming and design
-- Worked on projects involving Python, HTML/CSS, Java, and JavaScript
-- Applied strong design and problem-solving skills
+## 💼 Professional Experience
 
-### Pathway Connect Certificate
-**BYU-Pathway Worldwide**
-*September 2021 - July 2022*
-- English language speaking & writing
-- Mathematical reasoning
-- Effective communication
-- Leadership & time management
-- Decision making & problem solving
+- **Web Developer (Freelance)** @ Sao Paulo, Brasil
+  - Applied advanced CSS techniques to enhance aesthetics and responsiveness of web products, resulting in a visually engaging user experience
+  - Utilized HTML, CSS, and JavaScript to fine-tune website performance, ensuring optimal loading times and user interactions
+  - Collaborated on CMS and E-commerce platforms (WordPress, Magento, Drupal, Joomla, Shopify), streamlining integrations, performing site administration, and implementing mock-ups using HTML/CSS
 
-## Experience
+- **Bilingual Support Supervisor** @ Atento Venezuela *(Caracas, Venezuela)*
+  - Supervised and provided guidance for technical support analysts, ensuring professional assistance to end users through phone and email. Documented IT solutions, leading to the resolution of 85% of reported issues
+  - Oversaw real-time technical support operations in both English and Spanish, managing a team to achieve an 80% success rate in case resolution
+  - Collaborated with 3 cross-functional teams to elevate and supervise support strategies, contributing to a reduction in customer-reported technical issues while maintaining a high level of team efficiency
 
-### Web Developer (Freelance)
-**Sao Paulo, Brasil**
-- Applied advanced CSS techniques to enhance aesthetics and responsiveness of web products, resulting in a visually engaging user experience
-- Utilized HTML, CSS, and JavaScript to fine-tune website performance, ensuring optimal loading times and user interactions
-- Collaborated on CMS and E-commerce platforms (WordPress, Magento, Drupal, Joomla, Shopify), streamlining integrations, performing site administration, and implementing mock-ups using HTML/CSS
+- **Member (Volunteer)** @ ISOC Venezuela | Internet Society *(Caracas, Venezuela)*
+  - Facilitated local workshops: Arranged and led local workshops and seminars to educate over 200 community members on Internet-related topics, promoting digital literacy and awareness. Example: Chapperton 2018
+  - Coordinated community outreach: Directed community outreach initiatives to increase Internet access and usage, particularly in underserved regions, aligning with ISOC's mission of global Internet development
 
-### Bilingual Support Supervisor
-**Atento Venezuela**
-*Caracas, Venezuela*
-- Supervised and provided guidance for technical support analysts, ensuring professional assistance to end users through phone and email. Documented IT solutions, leading to the resolution of 85% of reported issues
-- Oversaw real-time technical support operations in both English and Spanish, managing a team to achieve an 80% success rate in case resolution
-- Collaborated with 3 cross-functional teams to elevate and supervise support strategies, contributing to a reduction in customer-reported technical issues while maintaining a high level of team efficiency
+## 🛠 Technologies & Tools
 
-### Member (Volunteer)
-**ISOC Venezuela | Internet Society**
-*Caracas, Venezuela*
-- Facilitated local workshops: Arranged and led local workshops and seminars to educate over 200 community members on Internet-related topics, promoting digital literacy and awareness. Example: Chapperton 2018
-- Coordinated community outreach: Directed community outreach initiatives to increase Internet access and usage, particularly in underserved regions, aligning with ISOC's mission of global Internet development
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
 
-## Skills
+## 💻 Core Skills
+- Web Development
+- Front-end Development
+- Technical Support
+- Problem Solving
+- Team Collaboration
+- Effective Communication
+- Leadership & Time Management
 
-- Team collaboration and structure
-- Opportunity pursuit and execution
-- Responsible action with community interests in mind
-- Knowledge acquisition, interpretation, and usage for reasoning and analysis
-- Quick adaptation to new and emerging technologies
+## 🏆 Achievements & Recognition
+- Certificate of Web and Computer Programming from Brigham Young University - Idaho
+- Pathway Connect Certificate from BYU-Pathway Worldwide
 
-## Contact
+## 🌎 Languages
+- Spanish (Native)
+- English (Intermediate)
 
-- **Email**: [tu-email@example.com]
-- **LinkedIn**: [Enlace a tu perfil de LinkedIn]
-- **Twitter**: [Enlace a tu perfil de Twitter]
+## 📫 Let's Connect!
 
-## GitHub Stats
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jennifer-gonzalez-pina)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jennifer-gonzalez-pina)
 
-[![Jennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)](https://github.com/tu-usuario)
+## 📊 GitHub Stats
 
-## Contribution Streak
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jennifer-gonzalez-pina&show_icons=true&theme=radical)
 
-[![Jennifer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=dark)](https://github.com/tu-usuario)
+## 🌱 Currently
+- Learning and applying new technologies and techniques in web development
+- Working on freelance web development projects
+- Exploring new opportunities and challenges in the tech industry
 
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dark)](https://github.com/tu-usuario)
-
-## Thanks for Visiting!
-
-If you have any questions or just want to chat, feel free to reach out. I'm always open to collaborating on interesting projects!
+---
+💡 Always seeking new challenges and opportunities to learn and grow in the web development world.
