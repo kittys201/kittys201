@@ -60,7 +60,7 @@ I'm a passionate web developer with a background in web and computer programming
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jennifer-gonzalez-pina&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kittys201&show_icons=true&theme=radical)
 
 ## 🌱 Currently
 - Learning and applying new technologies and techniques in web development
